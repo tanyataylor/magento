@@ -1,0 +1,3 @@
+var/cache
+app/etc/local.xml
+var/session
